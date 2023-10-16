@@ -3,10 +3,10 @@ Hello world! I am a graduate student at the **University of Iowa** studying **Bu
 
 # Table of Contents
 
-1. [link](https://github.com/cparnau/Hello-World#Description)
-2. [link](https://github.com/cparnau/Hello-World#Skills)
-3. [link](https://github.com/cparnau/Hello-World#Courses-This-Semester)
-4. [link](https://github.com/cparnau/Hello-World#Project-Ideas)
+1. [DESCRIPTION](https://github.com/cparnau/Hello-World#Description)
+2. [SKILLS](https://github.com/cparnau/Hello-World#Skills)
+3. [COURSES THIS SEMESTER](https://github.com/cparnau/Hello-World#Courses-This-Semester)
+4. [PROJECT IDEAS](https://github.com/cparnau/Hello-World#Project-Ideas)
 
 # Skills
 
